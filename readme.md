@@ -15,3 +15,7 @@ $ npm install -g msgbox-cli
 ```bash
 $ msgbox "The title" "And here goes your message."
 ```
+
+## Related
+
+* [msgbox](https://github.com/bramkok/msgbox) API for this module
