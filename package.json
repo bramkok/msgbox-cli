@@ -1,6 +1,6 @@
 {
   "name": "msgbox-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Improved console message output",
   "main": "index.js",
   "bin": {
