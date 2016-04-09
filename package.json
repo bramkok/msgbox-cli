@@ -1,0 +1,34 @@
+{
+  "name": "msgbox-cli",
+  "version": "0.0.1",
+  "description": "Improved console message output",
+  "main": "index.js",
+  "bin": {
+    "msgbox": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "git+ssh://git@github.com/bramkok/msgbox-cli.git",
+  "author": {
+    "name": "Bram Kok",
+    "url": "https://bramkok.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "cli",
+    "alert",
+    "warning",
+    "message box",
+    "info message"
+  ],
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-config-airbnb": "^6.2.0",
+    "eslint-plugin-react": "^4.2.3"
+  },
+  "dependencies": {
+    "meow": "^3.7.0",
+    "msgbox": "^1.0.1"
+  }
+}
