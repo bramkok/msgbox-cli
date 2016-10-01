@@ -25,4 +25,3 @@ if (typeof message === 'undefined') {
 }
 
 msgbox(title, message);
-process.exit(1);
